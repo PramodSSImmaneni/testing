@@ -1,0 +1,3 @@
+[submodule "submodule-testing2"]
+	path = submodule-testing2
+	url = git@github.com:tweise/testing2.git
