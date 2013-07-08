@@ -1,7 +1,12 @@
 [submodule "submodule-testing2"]
 	path = submodule-testing2
 	url = git@github.com:tweise/testing2.git
+        fetchRecurseSubmodules = yes
+        auto-update = yes
 [submodule "submodule-testing2-master"]
 	path = submodule-testing2-master
 	url = git@github.com:tweise/testing2.git
 	branch = master
+        fetchRecurseSubmodules = yes
+        auto-update = yes
+        
